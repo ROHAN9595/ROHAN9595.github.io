@@ -1,0 +1,12 @@
+.configurable-component {
+    padding: 10px;
+    border: 2px solid black;
+  
+    &.red {
+      background-color: red;
+    }
+  
+    &.blue {
+      background-color: blue;
+    }
+  }
